@@ -6,9 +6,9 @@
 	<listeners>
 		<listener class-name="com.qa.opencart.listeners.ExtentReportListener"/>
 	</listeners>
-	 <listeners>
+	 <!-- <listeners>
 		<listener class-name="com.qa.opencart.listeners.TestAllureListener"/>
-	</listeners> 
+	</listeners>  -->
  
 	<test name="Open Cart Login Page Test">
 		<classes>
